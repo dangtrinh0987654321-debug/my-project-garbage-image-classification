@@ -1,1 +1,5 @@
+rm dataset/images/.gitkeep
+git add -A
+git commit -m "Remove empty images folder"
+git push
 
